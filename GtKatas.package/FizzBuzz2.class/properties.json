@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "FizzBuzz",
+	"category" : "GtKatas-FizzBuzz",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "FizzBuzz2",
+	"type" : "normal"
+}
