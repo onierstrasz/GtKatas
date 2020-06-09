@@ -17,4 +17,4 @@ fbTo16
 	self assert: (FizzBuzz of: 14) equals: '14'.
 	self assert: (FizzBuzz of: 15) equals: 'fizzbuzz'.
 	self assert: (FizzBuzz of: 16) equals: '16'.
-	^ self to: 16
+	^ self class to: 16
