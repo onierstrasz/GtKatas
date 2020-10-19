@@ -1,1 +1,0 @@
-BaselineOf subclass: #BaselineOfGtKatas	instanceVariableNames: ''	classVariableNames: ''	package: 'BaselineOfGtKatas'!!BaselineOfGtKatas methodsFor: 'baselines' stamp: 'CompatibleUserName 6/9/2020 14:12:27'!baseline: spec	<baseline>	spec for: #common do: [ spec package: #GtKatas ]! !
