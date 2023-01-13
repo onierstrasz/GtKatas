@@ -8,4 +8,8 @@ Metacello new baseline: 'GtKatas';
   load
 ```
 
+```
+BaselineOfGtKatas loadLepiter
+```
+
 Also exercisms ...
