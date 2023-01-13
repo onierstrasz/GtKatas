@@ -548,43 +548,6 @@
 								"uidString" : "cQIEdoquDQC0QPJxD0VIug=="
 							},
 							"code" : "Directory new\r\tdata: (customers data\r\t\t\tselect: [ :each | (each phone copyFrom: 1 to: 3) = (each nameAsNumber copyFrom: 1 to: 3) ])"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-13T18:45:41.529475+01:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-01-13T18:45:43.124844+01:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "jUHQiYquDQC041kgD0VIug=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "Stuck."
 						}
 					]
 				},
